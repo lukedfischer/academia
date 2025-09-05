@@ -91,7 +91,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Luke D. Fischer"
       icon: favicon.ico
       iconHeight: 18
 
