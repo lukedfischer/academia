@@ -12,16 +12,10 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Projects
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
+        - name: Data Visualizations
           url: data/
           weight: 4 
         - name: Blog
@@ -44,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["Projects","Data Visualizations"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
