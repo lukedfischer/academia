@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Luke David Fischer
           subtitle: "I am a second year research master's student in communication science at the University of Amsterdam with a background in social psychology. My academic interests lies in the study of political psychology, focusing on information processing, emotions and political participation."
-          imageUrl: "picture.jpeg"
+          imageUrl: "image.JPG"
           imageWidth: 160
           imageHeight: 160
           buttons:
