@@ -1,4 +1,4 @@
-baseURL: "https://lukedfischer.github.io" 
+baseURL: "http://localhost:1313/"
 title: "Luke David Fischer"
 theme: PaperMod
 
