@@ -57,21 +57,20 @@ params:
             - name: Ongoing Projects
               url: papers/
             - name: Data Visualizations
-              url: data/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://lukedfischer.github.io/RViz/
+
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:lukefischer@pm.me
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Bluesky
           url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/luke-fischer-sep01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
     assets:
         disableScrollBarStyle: true
