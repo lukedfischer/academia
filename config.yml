@@ -16,11 +16,9 @@ menu:
           url: papers/
           weight: 2
         - name: Data Visualizations
-          url: data/
+          url: https://lukedfischer.github.io/RViz/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
     description: "Luke D. Fischer's academic fingerprint."
