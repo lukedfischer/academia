@@ -6,26 +6,3 @@
     margin: 0 auto;
     border-radius: 50%; /* optional: makes it a circle */
 }
-
-/* Center the whole profile card */
-.profile-main {
-    text-align: center;
-}
-
-/* Center the title specifically */
-.profile-main .profile-title {
-    text-align: center;
-}
-
-/* Center the subtitle */
-.profile-main .profile-subtitle {
-    text-align: center;
-}
-
-/* Optional: center the buttons (if not already) */
-.profile-main .buttons {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    margin-top: 1rem;
-}
