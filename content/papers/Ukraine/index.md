@@ -6,6 +6,12 @@ summary: "This paper examines how societal threat perceptions relate to politica
 cover:
     image: "Ukraine_plot.png"
 ---
+---
 
+##### Abstract
+
+Societal threat perceptions – feelings that something bad is about to happen – are on the rise globally. Prior research links threat perceptions to political ideology and increased support for political leaders. However, most of this work is based on WEIRD (Western, Educated, Industrialized, Rich, Democratic) contexts, often studying symbolic or distant threats. We address this gap by examining political responses to real, acute threats in the context of war. Using survey data from 421 residents of the Kharkiv region in Ukraine – collected in September–December 2024 in close proximity to the front line – we test whether threat perceptions are related to political ideology and support for democracy. We find no evidence that threat is associated with ideological extremism or right-wing orientation. However, we do find that those who feel most threatened by the Russian invasion partly express stronger support for democracy. These findings highlight the importance of geopolitical context in shaping how people respond to societal threats.
+
+---
 ## Russian Military Aggression During the Time of This Study
 ![](/Ukraine_plot.png)
