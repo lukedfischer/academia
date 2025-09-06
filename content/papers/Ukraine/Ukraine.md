@@ -6,4 +6,4 @@ summary: "This paper examines how societal threat perceptions relate to politica
 ---
 
 ## Russian Military Aggression During the Time of This Study
-![](Ukraine_plot.png)
+![](/static/Ukraine_plot.png)
