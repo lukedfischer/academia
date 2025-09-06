@@ -1,8 +1,0 @@
-
-
-/* Center the profile image */
-.profile img {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%; /* optional: makes it a circle */
-}
