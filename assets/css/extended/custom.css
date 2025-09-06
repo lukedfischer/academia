@@ -1,0 +1,25 @@
+/* Center the profile block on the home page */
+.profile {
+    text-align: center;
+}
+
+/* Center the profile image */
+.profile img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%; /* optional: makes it a circle */
+}
+
+/* Center the title and subtitle text */
+.profile .title,
+.profile .subtitle {
+    text-align: center;
+}
+
+/* Center the button container */
+.profile .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px; /* space between buttons */
+    margin-top: 1rem;
+}
