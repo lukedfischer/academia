@@ -1,7 +1,4 @@
-/* Center the profile block on the home page */
-.profile {
-    text-align: center;
-}
+
 
 /* Center the profile image */
 .profile img {
@@ -10,21 +7,25 @@
     border-radius: 50%; /* optional: makes it a circle */
 }
 
-/* Center the title and subtitle text */
-.profile .title,
-.profile .subtitle {
+/* Center the whole profile card */
+.profile-main {
     text-align: center;
 }
 
-/* Center the button container */
-.profile .buttons {
+/* Center the title specifically */
+.profile-main .profile-title {
+    text-align: center;
+}
+
+/* Center the subtitle */
+.profile-main .profile-subtitle {
+    text-align: center;
+}
+
+/* Optional: center the buttons (if not already) */
+.profile-main .buttons {
     display: flex;
     justify-content: center;
-    gap: 12px; /* space between buttons */
+    gap: 12px;
     margin-top: 1rem;
-}
-
-header .logo {
-    margin: 0 auto;
-    text-align: center;
 }
