@@ -23,3 +23,8 @@
     gap: 12px; /* space between buttons */
     margin-top: 1rem;
 }
+
+header .logo {
+    margin: 0 auto;
+    text-align: center;
+}
