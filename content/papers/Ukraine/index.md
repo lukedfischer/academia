@@ -13,4 +13,4 @@ Societal threat perceptions â€“ feelings that something bad is about to happen â
 
 ---
 ## Russian Military Aggression During the Time of This Study
-![](/Ukraine_plot.png)
+![](/static/Ukraine_plot.png)
